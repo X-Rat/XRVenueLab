@@ -17,6 +17,7 @@
 - Automatic OBS setup (full version): checks OBS and its plugins (Spout2, DistroAV, Source Record) and installs what is missing, creates its own scenes XRVL OUT 1–4 and XRVL MULTI without touching yours, and REC records any combination of the 4 outputs and the MULTI grid, each to its own file in the Records folder. New Recording Guide (EN/ES).
 - Faster, more stable Spout input (one copy per new frame, no freeze when switching channels).
 - Built-in update check (UPDATE button).
+- ABOUT window with an animated Argentine flag (made in Buenos Aires).
 
 **Español**
 - Importa el XML de Advanced Output de Resolume: pantallas, slices y resolución de salida.
@@ -33,3 +34,4 @@
 - Configuración automática de OBS (versión completa): revisa OBS y sus plugins (Spout2, DistroAV, Source Record) e instala lo que falte, crea sus propias escenas XRVL OUT 1–4 y XRVL MULTI sin tocar las tuyas, y REC graba cualquier combinación de las 4 salidas y la cuadrícula MULTI, cada una en su archivo, en la carpeta Records. Nueva Guía de grabación (ES/EN).
 - Entrada Spout más rápida y estable (una sola copia por cuadro nuevo, sin congelarse al cambiar canales).
 - Aviso de actualizaciones (botón UPDATE).
+- Ventana ABOUT con la bandera argentina animada (hecho en Buenos Aires).
