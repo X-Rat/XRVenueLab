@@ -10,6 +10,8 @@ Real-time LED screen previsualization for VJs, visual designers and show technic
 <a href="#español">Español</a>
 </p>
 
+<p align="center"><img src="docs/images/vista_tecnico.jpg" alt="XR Venue Lab - technician view" width="100%"></p>
+
 ---
 
 ## What it is
@@ -26,6 +28,11 @@ You import the **Advanced Output XML from Resolume**, and every slice appears as
 
 ## Main features
 
+<p align="center">
+<img src="docs/images/menu_video_en_vivo.jpg" alt="Main menu with live video" width="49%">
+<img src="docs/images/editor_3d.jpg" alt="3D editor" width="49%">
+</p>
+
 - **Resolume XML import**: screens, slices and output resolution are read straight from Resolume.
 - **Live video** on the screens through NDI® or Spout, up to four input channels.
 - **3D editor** inside the program: move and rotate screens with a gizmo, type exact positions, join screens edge to edge with the magnet, make groups, enable or disable slices, undo and redo.
@@ -33,7 +40,7 @@ You import the **Advanced Output XML from Resolume**, and every slice appears as
 - **Technician view**: walk or fly through the venue at eye level (1.65 m).
 - **Cameras**: 7 automatic cameras placed from the room and the screens, with views, speeds and paths, AUTO SWITCH and presets that work with any venue.
 - **X-RAY view**: see the venue like the 3D editor — see-through room, floor grid and disabled screens — on any camera.
-- **Recording outputs**: up to 4 outputs via Spout or NDI® (the screen, the technician view or any camera) to record in OBS or send to Resolume or vMix, without panels or captions.
+- **Recording outputs**: up to 4 outputs via Spout or NDI® (the screen, the technician view or any camera) to record in OBS or send to Resolume or vMix, without panels or captions. OBS is set up automatically (plugins, scenes and one file per output).
 - **Save and open venues** to reuse them or share them with colleagues.
 - **Graphics quality** levels (LOW / MEDIUM / HIGH) and a 30 / 60 FPS cap for different computers.
 - **Built-in update check**: the program tells you when there is a new version.
@@ -107,7 +114,7 @@ Importás el **XML de Advanced Output de Resolume** y cada slice aparece como un
 - **Vista del técnico**: caminar o volar por el venue a la altura de los ojos (1,65 m).
 - **Cámaras**: 7 cámaras automáticas según el recinto y las pantallas, con vistas, velocidades y recorridos, AUTO SWITCH y presets que sirven para cualquier venue.
 - **Vista X-RAY**: el venue como en el editor 3D —recinto translúcido, grilla en el piso y pantallas desactivadas— en cualquier cámara.
-- **Salidas de grabación**: hasta 4 salidas por Spout o NDI® (la pantalla, la vista del técnico o cualquier cámara) para grabar en OBS o mandar a Resolume o vMix, sin paneles ni carteles.
+- **Salidas de grabación**: hasta 4 salidas por Spout o NDI® (la pantalla, la vista del técnico o cualquier cámara) para grabar en OBS o mandar a Resolume o vMix, sin paneles ni carteles. OBS se configura solo (plugins, escenas y un archivo por salida).
 - **Guardar y abrir venues** para reusarlos o compartirlos con colegas.
 - **Calidad gráfica** LOW / MEDIUM / HIGH y tope de 30 / 60 FPS para distintas computadoras.
 - **Aviso de actualizaciones** desde el mismo programa.
