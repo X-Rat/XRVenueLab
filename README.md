@@ -10,8 +10,6 @@ Real-time LED screen previsualization for VJs, visual designers and show technic
 <a href="#español">Español</a>
 </p>
 
-<p align="center"><img src="docs/images/vista_tecnico.jpg" alt="XR Venue Lab - technician view" width="100%"></p>
-
 ---
 
 ## What it is
@@ -28,18 +26,16 @@ You import the **Advanced Output XML from Resolume**, and every slice appears as
 
 ## Main features
 
-<p align="center">
-<img src="docs/images/menu_video_en_vivo.jpg" alt="Main menu with live video" width="49%">
-<img src="docs/images/editor_3d.jpg" alt="3D editor" width="49%">
-</p>
-
 - **Resolume XML import**: screens, slices and output resolution are read straight from Resolume.
 - **Live video** on the screens through NDI® or Spout, up to four input channels.
 - **3D editor** inside the program: move and rotate screens with a gizmo, type exact positions, join screens edge to edge with the magnet, make groups, enable or disable slices, undo and redo.
 - **Real size by LED pitch**, chosen per Screen, so each screen measures what the real one measures.
 - **Technician view**: walk or fly through the venue at eye level (1.65 m).
+- **Cameras**: 7 automatic cameras placed from the room and the screens, with views, speeds and paths, AUTO SWITCH and presets that work with any venue.
+- **X-RAY view**: see the venue like the 3D editor — see-through room, floor grid and disabled screens — on any camera.
+- **Recording outputs**: up to 4 outputs via Spout or NDI® (the screen, the technician view or any camera) to record in OBS or send to Resolume or vMix, without panels or captions.
 - **Save and open venues** to reuse them or share them with colleagues.
-- **Graphics quality** levels (LOW / MEDIUM / HIGH) for different computers.
+- **Graphics quality** levels (LOW / MEDIUM / HIGH) and a 30 / 60 FPS cap for different computers.
 - **Built-in update check**: the program tells you when there is a new version.
 
 ## Free version and full version
@@ -49,6 +45,9 @@ You import the **Advanced Output XML from Resolume**, and every slice appears as
 | Resolume XML import and 3D editor | ✔ | ✔ |
 | Live video through NDI® / Spout | 1 channel (CH 01) | 4 channels |
 | Slices per venue | up to 10 | unlimited |
+| Cameras | technician + 2 | technician + 7, AUTO SWITCH, presets |
+| X-RAY view | — | ✔ |
+| Recording outputs (Spout / NDI®) | — | up to 4 |
 | Save venues | — | ✔ |
 | Open venues shared by others | ✔ | ✔ |
 
@@ -106,8 +105,11 @@ Importás el **XML de Advanced Output de Resolume** y cada slice aparece como un
 - **Editor 3D** dentro del programa: mover y rotar pantallas con un gizmo, escribir posiciones exactas, unir pantallas borde con borde con el imán, armar grupos, habilitar o deshabilitar slices, deshacer y rehacer.
 - **Tamaño real según el pitch del LED**, elegible por Screen.
 - **Vista del técnico**: caminar o volar por el venue a la altura de los ojos (1,65 m).
+- **Cámaras**: 7 cámaras automáticas según el recinto y las pantallas, con vistas, velocidades y recorridos, AUTO SWITCH y presets que sirven para cualquier venue.
+- **Vista X-RAY**: el venue como en el editor 3D —recinto translúcido, grilla en el piso y pantallas desactivadas— en cualquier cámara.
+- **Salidas de grabación**: hasta 4 salidas por Spout o NDI® (la pantalla, la vista del técnico o cualquier cámara) para grabar en OBS o mandar a Resolume o vMix, sin paneles ni carteles.
 - **Guardar y abrir venues** para reusarlos o compartirlos con colegas.
-- **Calidad gráfica** LOW / MEDIUM / HIGH para distintas computadoras.
+- **Calidad gráfica** LOW / MEDIUM / HIGH y tope de 30 / 60 FPS para distintas computadoras.
 - **Aviso de actualizaciones** desde el mismo programa.
 
 ### Versión gratuita y versión completa
@@ -117,6 +119,9 @@ Importás el **XML de Advanced Output de Resolume** y cada slice aparece como un
 | Importar XML de Resolume y editor 3D | ✔ | ✔ |
 | Video en vivo por NDI® / Spout | 1 canal (CH 01) | 4 canales |
 | Slices por venue | hasta 10 | sin límite |
+| Cámaras | técnico + 2 | técnico + 7, AUTO SWITCH, presets |
+| Vista X-RAY | — | ✔ |
+| Salidas de grabación (Spout / NDI®) | — | hasta 4 |
 | Guardar venues | — | ✔ |
 | Abrir venues que te comparten | ✔ | ✔ |
 
