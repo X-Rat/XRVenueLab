@@ -1,5 +1,31 @@
 # What's new · Novedades
 
+## 1.0.2 — 2026-11-17
+
+### Español
+- ESCENOGRAFÍA: importá venues y objetos 3D (.glb / .gltf) alrededor de tus pantallas, en metros reales (incluida en la Pro; add-on para la Lite).
+- LUZ DE ESCENOGRAFÍA (tecla L): luz ambiente, luces del modelo y día / noche con la hora del evento.
+- EXPORTAR VENUE: un solo archivo .xrvl con el venue y sus modelos 3D. IMPORTAR VENUE lo abre completo.
+- Solapa P: barra de paneles y acciones con su tecla. En el editor 3D muestra sus herramientas.
+- Botón i en cada panel con ayuda corta, y botón GUÍAS Y MANUALES.
+- Menú principal renovado: VENUE, ENTRADAS DE VIDEO y SCREEN se pliegan y recuerdan cómo las dejaste.
+- Solapa del engranaje (debajo de la P): AJUSTES con calidad gráfica, FPS e idioma.
+- Nuevo logo e ícono, con animación de arranque.
+- Las notas de actualización se ven en el idioma de la interfaz.
+- Guías actualizadas (español e inglés) y mejoras de estabilidad.
+
+### English
+- SCENERY: import 3D venues and objects (.glb / .gltf) around your screens, in real meters (included in Pro; add-on for Lite).
+- SCENERY LIGHT (L key): ambient light, model lights and day / night with the event time.
+- EXPORT VENUE: a single .xrvl file with the venue and its 3D models. IMPORT VENUE opens it complete.
+- P tab: bar with every panel and action and its key. In the 3D editor it shows the editor tools.
+- i button on each panel with short help, plus a GUIDES AND MANUALS button.
+- Redesigned main menu: VENUE, VIDEO INPUTS and SCREEN fold and remember how you left them.
+- Gear tab (under the P tab): SETTINGS with graphics quality, FPS and language.
+- New logo and icon, with a startup animation.
+- Update notes are shown in the interface language.
+- Updated guides (Spanish and English) and stability improvements.
+
 ## 1.0.0 — first public release · primera versión pública
 
 **English**
